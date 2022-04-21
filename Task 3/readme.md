@@ -1,5 +1,5 @@
 # Explanatory Data Analysis - Retail
-
+<img src = 'dashboard black.JPG'>
 ## Project Description
 This project aims at performing an explanatory data analysis on a retail superstore dataset. 
 

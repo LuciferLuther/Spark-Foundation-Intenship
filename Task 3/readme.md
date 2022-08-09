@@ -2,9 +2,7 @@
 <img src = 'dashboard black.JPG'>
 
 ## Project Description
-This project aims at performing an explanatory data analysis on a retail superstore dataset. 
-
-This project was a part of a one-month Data Science & Business Analytics online internship at The Sparks Foundation from april 2022 to may 2022. The tools used for the analysis:
+This project aims at performing an explanatory data analysis on a retail superstore dataset, to suggest solutions that increase profit and sales.
 
 - _**Python**_ : As the programming language used for the analysis.
 - _**Deepnote**_ : Integrated Development Environment (IDE)
